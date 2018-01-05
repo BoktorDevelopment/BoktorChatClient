@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoktorChatClient", "BoktorChatClient\BoktorChatClient.csproj", "{BF77A5FF-0D90-44C1-806B-F0FC0756E83D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF77A5FF-0D90-44C1-806B-F0FC0756E83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF77A5FF-0D90-44C1-806B-F0FC0756E83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF77A5FF-0D90-44C1-806B-F0FC0756E83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF77A5FF-0D90-44C1-806B-F0FC0756E83D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE58D400-A0E5-43D9-9751-9656E3058F97}
+	EndGlobalSection
+EndGlobal

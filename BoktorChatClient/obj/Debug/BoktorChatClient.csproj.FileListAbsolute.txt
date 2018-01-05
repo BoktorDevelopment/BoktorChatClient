@@ -1,0 +1,10 @@
+D:\BoktorChat\BoktorChatClient\BoktorChatClient\bin\Debug\BoktorChatClient.exe.config
+D:\BoktorChat\BoktorChatClient\BoktorChatClient\bin\Debug\BoktorChatClient.exe
+D:\BoktorChat\BoktorChatClient\BoktorChatClient\bin\Debug\BoktorChatClient.pdb
+D:\BoktorChat\BoktorChatClient\BoktorChatClient\obj\Debug\BoktorChatClient.csprojResolveAssemblyReference.cache
+D:\BoktorChat\BoktorChatClient\BoktorChatClient\obj\Debug\BoktorChatClient.Form1.resources
+D:\BoktorChat\BoktorChatClient\BoktorChatClient\obj\Debug\BoktorChatClient.Properties.Resources.resources
+D:\BoktorChat\BoktorChatClient\BoktorChatClient\obj\Debug\BoktorChatClient.csproj.GenerateResource.Cache
+D:\BoktorChat\BoktorChatClient\BoktorChatClient\obj\Debug\BoktorChatClient.csproj.CoreCompileInputs.cache
+D:\BoktorChat\BoktorChatClient\BoktorChatClient\obj\Debug\BoktorChatClient.exe
+D:\BoktorChat\BoktorChatClient\BoktorChatClient\obj\Debug\BoktorChatClient.pdb
